@@ -1,0 +1,1 @@
+javac -sourcepath src/main -classpath lib/forms_rt.jar -d classes src/main/estimation/app/GameApp.java
